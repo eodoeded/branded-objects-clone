@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCREEN>
+  <FRAME name="1920w light" width="1920" height="2976" fillColor="#12110d">
+    <FRAME name="Background" width="1920" height="2914" fillColor="#12110d">
+      <FRAME name="Main - Main" width="1920" height="6444.3">
+        <FRAME name="Section - hero" width="1920" height="753">
+          <FRAME name="content" width="890.9" height="538.4">
+            <RECTANGLE name="Border" width="890.9" height="538.4" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" />
+            <IMAGE src="assets/image_31cf788c.png" /></FRAME>
+          <RECTANGLE name="HorizontalBorder" width="1920" height="753" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+        <FRAME name="Section - sections" width="1920" height="5691.3">
+          <FRAME name="Section - gallery" width="1920" height="813.5">
+            <FRAME name="Desktop" width="1920" height="60">
+              <FRAME name="content" width="1113.6" height="60">
+                <FRAME name="label left" width="78.2" height="24">
+                  <TEXT name="USE CASES" width="54.4" height="12" fillColor="#5c5d5e" fontSize="9.8">USE CASES</TEXT>
+                  <RECTANGLE name="Border" width="78.2" height="24" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+                <FRAME name="label right" width="43.2" height="24">
+                  <TEXT name="001" width="19.4" height="12" fillColor="#5c5d5e" fontSize="11.2">001</TEXT>
+                  <RECTANGLE name="Border" width="43.2" height="24" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+                <RECTANGLE name="Border" width="1113.6" height="60" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+              <RECTANGLE name="HorizontalBorder" width="1920" height="60" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+            <RECTANGLE name="HorizontalBorder" width="1920" height="813.5" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" />
+            <FRAME name="container → wrapper" width="1920" height="753.5">
+              <FRAME name="Background" width="1920" height="660">
+                <FRAME name="Mask Group" width="1920" height="660">
+                  <RECTANGLE name="Mask" width="1920" height="660" /></FRAME></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.1" height="221.3" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 1" width="230.1" height="129.2" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="Spacia" width="33.3" height="10" fontSize="10">Spacia</TEXT>
+                <TEXT name="001" width="13.1" height="8" fontSize="7.5">001</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.2" height="221.3" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 2" width="230.2" height="199.3" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="Spacia" width="33.3" height="10" fontSize="10">Spacia</TEXT>
+                <TEXT name="002" width="13.4" height="8" fontSize="7.1">002</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.1" height="221.3" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 1" width="230.1" height="152.2" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="Essential" width="48.5" height="10" fontSize="10">Essential</TEXT>
+                <TEXT name="001" width="13.1" height="8" fontSize="7.5">001</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.2" height="221.3" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 2" width="230.2" height="129.4" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="Essential" width="48.5" height="10" fontSize="10">Essential</TEXT>
+                <TEXT name="002" width="13.4" height="8" fontSize="7.1">002</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.1" height="151.7" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 1" width="230.1" height="129.5" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="Dockr" width="27.8" height="10" fontSize="9.8">Dockr</TEXT>
+                <TEXT name="001" width="13.1" height="8" fontSize="7.5">001</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.2" height="151.7" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 2" width="230.2" height="129.5" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="Dockr" width="27.8" height="10" fontSize="9.8">Dockr</TEXT>
+                <TEXT name="002" width="13.4" height="8" fontSize="7.1">002</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.1" height="151.7" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 1" width="230.1" height="129.4" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="New Form Factor" width="76.2" height="10" fontSize="9.4">New Form Factor</TEXT>
+                <TEXT name="001" width="13.1" height="8" fontSize="7.5">001</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.2" height="151.7" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 2" width="230.2" height="129.7" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="New Form Factor" width="76.2" height="10" fontSize="9.4">New Form Factor</TEXT>
+                <TEXT name="002" width="13.4" height="8" fontSize="7.1">002</TEXT></FRAME>
+              <FRAME name="Overlay+Shadow" width="230.1" height="151.5" cornerRadius="8" fillOpacity="0.0">
+                <FRAME name="Image 3" width="230.1" height="129.5" fillColor="#f5f5f5"></FRAME>
+                <TEXT name="New Form Factor" width="76.2" height="10" fontSize="9.4">New Form Factor</TEXT>
+                <TEXT name="003" width="13.2" height="8" fontSize="6.9">003</TEXT></FRAME></FRAME></FRAME>
+          <FRAME name="Section - process" width="1920" height="837.1">
+            <FRAME name="Desktop" width="1920" height="60">
+              <FRAME name="content" width="1113.6" height="60">
+                <FRAME name="label left" width="69.1" height="24">
+                  <TEXT name="PROCESS" width="45.3" height="12" fillColor="#5c5d5e" fontSize="9.8">PROCESS</TEXT>
+                  <RECTANGLE name="Border" width="69.1" height="24" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+                <FRAME name="label right" width="43.2" height="24">
+                  <TEXT name="003" width="19.4" height="12" fillColor="#5c5d5e" fontSize="10.1">003</TEXT>
+                  <RECTANGLE name="Border" width="43.2" height="24" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+                <RECTANGLE name="Border" width="1113.6" height="60" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+              <RECTANGLE name="HorizontalBorder" width="1920" height="60" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+            <FRAME name="container" width="1113.6" height="777.1">
+              <FRAME name="Default" width="1113.6" height="737.1" fillColor="#12110d">
+                <FRAME name="List - list" width="1113.6" height="577.1">
+                  <FRAME name="Item → List - Variant 1" width="371.2" height="577.1" fillColor="#12110d">
+                    <FRAME name="Item" width="331.2" height="16.9">
+</FRAME>
+                    <FRAME name="Item" width="331.2" height="462.4">
+</FRAME>
+                    <TEXT name="Item - D...ed time." width="299.0" height="34.9" fillColor="#5c5d5e" fontFamily="Geist" fontSize="14.1">We get aligned fast to start the project with full 
+momentum. Few clear direction, no wasted time.</TEXT>
+                    <RECTANGLE name="Border" width="371.2" height="577.1" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+                  <FRAME name="Item → List - Variant 1" width="371.2" height="577.1" fillColor="#12110d">
+                    <FRAME name="Item" width="331.2" height="16.9">
+</FRAME>
+                    <FRAME name="Item" width="331.2" height="445.5">
+</FRAME>
+                    <TEXT name="Item - D...eniable." width="297.2" height="51.8" fillColor="#5c5d5e" fontFamily="Geist" fontSize="14.1">This is where clarity takes shape. We refine the 
+essentials into a brand that feels obvious — and 
+undeniable.</TEXT>
+                    <RECTANGLE name="Border" width="371.2" height="577.1" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+                  <FRAME name="Item → List - Variant 1" width="371.2" height="577.1" fillColor="#12110d">
+                    <FRAME name="Item" width="331.2" height="16.9">
+</FRAME>
+                    <FRAME name="Item" width="331.2" height="462.4">
+</FRAME>
+                    <TEXT name="Item - D...ch fast." width="330.2" height="34.9" fillColor="#5c5d5e" fontFamily="Geist" fontSize="14.1">Everything’s in your hands: a sharp brand, clear tools, 
+and the confidence to launch fast.</TEXT>
+                    <RECTANGLE name="Border" width="371.2" height="577.1" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME></FRAME>
+                <RECTANGLE name="Border" width="1113.6" height="737.1" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+              <RECTANGLE name="Border" width="1113.6" height="777.1" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+            <RECTANGLE name="HorizontalBorder" width="1920" height="837.1" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+          <FRAME name="Section - headline" width="1920" height="354.2">
+            <FRAME name="container" width="1920" height="354.2">
+              <FRAME name="lines:mask-group" width="1920" height="354.2">
+                <RECTANGLE name="lines:mask" width="1920" height="354.2" />
+                <FRAME name="lines" width="1920" height="354.2">
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME>
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME>
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME>
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME>
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME>
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME>
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME>
+                  <FRAME name="line" width="1920" fillColor="#121314"></FRAME></FRAME></FRAME>
+              <FRAME name="content" width="1113.6" height="354.2">
+                <FRAME name="wrapper" width="1113.6" height="274.2">
+                  <FRAME name="headline" width="1073.6" height="155.2"></FRAME>
+                  <FRAME name="Buttons" width="204" height="39"></FRAME>
+                  <GROUP name="Group 12" width="135" height="51">
+                    <ROW name="Link - Static → link 1" padding="15 29 15 29" horizAlign="SPACE_BETWEEN" width="135" height="51" strokeWeight="0.8" fillColor="#3b3b3b" strokeColor="#ffffff" strokeOpacity="0.3" strokeAlign="INSIDE">
+</ROW></GROUP>
+                  <RECTANGLE name="Border" width="1113.6" height="274.2" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" />
+                  <TEXT name="Make com...erstand." width="922" height="189" fontSize="48" textAlignHorizontal="CENTER">Make complex products simple
+ to understand.</TEXT></FRAME>
+                <RECTANGLE name="Border" width="1113.6" height="354.2" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME></FRAME>
+            <RECTANGLE name="HorizontalBorder" width="1920" height="354.2" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME></FRAME></FRAME></FRAME>
+    <FRAME name="container" width="1121" height="39">
+      <FRAME name="Link - Brand → logo → SVG" width="55" height="13">
+        <FRAME name="svg1810160894_3305" width="55" height="13"></FRAME></FRAME></FRAME>
+    <TEXT name="Branded Objects" width="200" height="27" fillColor="#e3e3fd" fontSize="25.2">Branded Objects</TEXT>
+    <RECTANGLE name="HorizontalBorder" width="1920" height="36.5" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" />
+    <TEXT name="Title → Work" width="34.0" height="15.6" fontSize="13.9">Work</TEXT>
+    <COLUMN name="Link - Static → link 1" padding="15 29 15 29" horizAlign="SPACE_BETWEEN" width="73" height="40" fillColor="#3b3b3b" fillOpacity="0.3">
+      <RECTANGLE name="Border" width="73" height="40" strokeWeight="1.3" strokeColor="#ffffff" strokeOpacity="0.0" strokeAlign="INSIDE" />
+      <TEXT name="Title → Work" width="93.6" height="20.8" fillColor="#e3e3fd" fontSize="18.1" textAlignHorizontal="CENTER">Work</TEXT></COLUMN>
+    <RECTANGLE name="HorizontalBorder" width="1920" height="36.5" strokeWeight="0" strokeColor="#121314" strokeAlign="INSIDE" /></FRAME>
+</SCREEN>
