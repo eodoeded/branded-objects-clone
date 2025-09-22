@@ -86,30 +86,35 @@ body {
   font-size: 48px;
   color: #E3E3FF;
   font-weight: 400;
-  line-height: 1.1;
-  margin-bottom: 30px;
+  line-height: 1.08;
+  margin-bottom: 26px;
+  max-width: 580px;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 .hero-description {
   font-family: 'Montreal-Regular', sans-serif;
   font-size: 18px;
   color: #ffffff;
-  line-height: 1.4;
-  margin-bottom: 30px;
+  line-height: 1.35;
+  margin-bottom: 26px;
 }
 
 .horizontal-divider {
   width: 100px;
   height: 1px;
   background-color: #dbdbdb;
-  margin-bottom: 30px;
+  margin-bottom: 26px;
 }
 
 .tagline {
   font-family: 'Montreal-Regular', sans-serif;
   font-size: 18px;
   color: #E3E3FF;
-  margin-bottom: 40px;
+  margin-bottom: 36px;
 }
 
 .cta-button {
@@ -117,27 +122,32 @@ body {
   font-size: 18px;
   color: #ffffff;
   text-decoration: underline;
-  text-underline-offset: 4px;
+  text-underline-offset: 3px;
   text-decoration-thickness: 1px;
   cursor: pointer;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  display: inline-block;
-  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
 
-.cta-button:hover {
-  color: #E3E3FF;
-  transform: translateX(5px);
+.cta-text {
+  transition: color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.cta-button::after {
-  content: '→';
-  margin-left: 8px;
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+.cta-arrow {
+  font-family: 'Inter', sans-serif;
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1), color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.cta-button:hover::after {
-  transform: translateX(3px);
+.cta-button:hover .cta-text,
+.cta-button:focus-visible .cta-text {
+  color: #ffffff;
+}
+
+.cta-button:hover .cta-arrow,
+.cta-button:focus-visible .cta-arrow {
+  transform: translateX(4px);
+  color: #ffffff;
 }
 
 .hero-image {
@@ -298,6 +308,7 @@ body {
   
   .main-headline {
     font-size: 36px;
+    max-width: none;
   }
   
   .process-grid {

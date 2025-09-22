@@ -16,7 +16,7 @@ function App() {
       <div className="hero-section">
         <div className="hero-content">
           <h1 className="main-headline">
-            Make complex products <br />
+            <span className="nowrap">Make complex products</span> <br />
             simple to understand.
           </h1>
           <p className="hero-description">
@@ -25,7 +25,8 @@ function App() {
           <div className="horizontal-divider"></div>
           <p className="tagline">A micro-studio built for speed and clarity.</p>
           <a href="mailto:brandedobjects@gmail.com" className="cta-button">
-            Let's talk →
+            <span className="cta-text">Let's talk</span>
+            <span className="cta-arrow" aria-hidden="true">→</span>
           </a>
         </div>
         <div className="hero-image">
